@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Khan",
+    "specialization": "Cardiologist",
+    "availability": true,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "bio": "Experienced cardiologist with over 10 years of practice in heart health and patient care."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Arjun Mehta",
+    "specialization": "Dermatologist",
+    "availability": false,
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "bio": "Expert in skin diseases and cosmetic dermatology with 8 years of experience."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Sharma",
+    "specialization": "Pediatrician",
+    "availability": true,
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "bio": "Caring pediatrician specializing in child health and immunizations."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ravi Kapoor",
+    "specialization": "Orthopedic",
+    "availability": true,
+    "image": "https://randomuser.me/api/portraits/men/36.jpg",
+    "bio": "Orthopedic surgeon with a focus on sports injuries and joint replacement."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Meera Nair",
+    "specialization": "Psychiatrist",
+    "availability": false,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "bio": "Experienced psychiatrist specializing in anxiety and mood disorders."
+  }
+]
