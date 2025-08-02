@@ -50,7 +50,7 @@ A responsive React.js application that allows users to browse doctor profiles, v
 - 🗓️ View user's past/future appointments
 
 ## ✅ How to Run Locally
-
+#
 ```bash
 git clone https://github.com/akanksha519/healthcare-appointment.git
 cd healthcare
@@ -58,3 +58,15 @@ npm install
 npm start
 
 Then open http://localhost:3000 in your browser.
+
+**## Live Demo link **
+https://healthcare-appointment-akanksha.netlify.app/
+
+## 🎯 Assignment Requirements Fulfilled
+
+- ✅ React.js used with functional components and hooks
+- ✅ Displays list of doctors with search
+- ✅ Doctor profile page with availability
+- ✅ Book Appointment form with confirmation
+- ✅ Fully responsive design
+- ✅ Local state & React Context for global state handling
